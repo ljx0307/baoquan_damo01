@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f0206f79-22eb-4541-b22d-645f0a0713b2" name="默认更改列表" comment="">
+      <change beforePath="$PROJECT_DIR$/go-sql-driver/mysql/.travis/gofmt.sh" beforeDir="false" afterPath="$PROJECT_DIR$/go-sql-driver/mysql/.travis/gofmt.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-sql-driver/mysql/.travis/wait_mysql.sh" beforeDir="false" afterPath="$PROJECT_DIR$/go-sql-driver/mysql/.travis/wait_mysql.sh" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="bee06" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" path="C:\Go" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/go-sql-driver/mysql" />
+  </component>
+  <component name="ProjectId" id="1iiIxE4wJIDpPgEgeUx2uPEOYMp" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="go.sdk.automatically.set" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../bee04" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\GoProjects\src\bee06\static\js" />
+      <recent name="C:\Users\GoProjects\src\bee06\static\img" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\GoProjects\src\bee06\static\js\log_js" />
+      <recent name="C:\Users\GoProjects\src\bee06\static\img\log_img" />
+      <recent name="C:\Users\GoProjects\src\bee06\static\css\log_css" />
+      <recent name="C:\Users\GoProjects\src\bee06\static\js" />
+      <recent name="C:\Users\GoProjects\src\bee06\static\img" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Go Build.go build bee06">
+    <configuration name="go build bee06" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="bee06" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <kind value="PACKAGE" />
+      <filePath value="$PROJECT_DIR$/main.go" />
+      <package value="bee06" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build bee06/static/js/log_js" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="bee06" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <kind value="PACKAGE" />
+      <package value="bee06/static/js/log_js" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build db.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="bee06" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <kind value="PACKAGE" />
+      <filePath value="$PROJECT_DIR$/db_mysql/db.go" />
+      <package value="bee06" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Build.go build bee06" />
+        <item itemvalue="Go Build.go build bee06/static/js/log_js" />
+        <item itemvalue="Go Build.go build db.go" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="212" y="8" key="#Inspections" timestamp="1602416988882">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="212" y="8" key="#Inspections/0.0.1440.860@0.0.1440.860" timestamp="1602416988882" />
+    <state x="503" y="221" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1602392880619">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="503" y="221" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1440.860@0.0.1440.860" timestamp="1602392880619" />
+    <state x="371" y="28" key="#go_build_db.go" timestamp="1602399899349">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="371" y="28" key="#go_build_db.go/0.0.1440.860@0.0.1440.860" timestamp="1602399899349" />
+    <state x="450" y="131" key="FileChooserDialogImpl" timestamp="1602408205932">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="450" y="131" key="FileChooserDialogImpl/0.0.1440.860@0.0.1440.860" timestamp="1602408205932" />
+    <state width="1387" height="137" key="GridCell.Tab.0.bottom" timestamp="1602428940329">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="1387" height="137" key="GridCell.Tab.0.bottom/0.0.1440.860@0.0.1440.860" timestamp="1602428940329" />
+    <state width="1387" height="137" key="GridCell.Tab.0.center" timestamp="1602428940328">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="1387" height="137" key="GridCell.Tab.0.center/0.0.1440.860@0.0.1440.860" timestamp="1602428940328" />
+    <state width="1387" height="137" key="GridCell.Tab.0.left" timestamp="1602428940328">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="1387" height="137" key="GridCell.Tab.0.left/0.0.1440.860@0.0.1440.860" timestamp="1602428940328" />
+    <state width="1387" height="137" key="GridCell.Tab.0.right" timestamp="1602428940328">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="1387" height="137" key="GridCell.Tab.0.right/0.0.1440.860@0.0.1440.860" timestamp="1602428940328" />
+    <state x="93" y="0" key="SettingsEditor" timestamp="1602408144208">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="93" y="0" key="SettingsEditor/0.0.1440.860@0.0.1440.860" timestamp="1602408144208" />
+  </component>
+</project>
