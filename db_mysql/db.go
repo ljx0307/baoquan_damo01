@@ -9,7 +9,7 @@ import (
 
 var DB *sql.DB
 
-func init()  {
+func ConnectDB()  {
 
 	//1.读取conf配置信息
 	config := beego.AppConfig

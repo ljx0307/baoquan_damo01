@@ -2,8 +2,38 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f0206f79-22eb-4541-b22d-645f0a0713b2" name="默认更改列表" comment="">
-      <change beforePath="$PROJECT_DIR$/go-sql-driver/mysql/.travis/gofmt.sh" beforeDir="false" afterPath="$PROJECT_DIR$/go-sql-driver/mysql/.travis/gofmt.sh" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/go-sql-driver/mysql/.travis/wait_mysql.sh" beforeDir="false" afterPath="$PROJECT_DIR$/go-sql-driver/mysql/.travis/wait_mysql.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/models/uploadRecord.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/js/UserAttAdd-ab4c6.chunk.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/js/UserAttList-538b0.chunk.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/js/UserChart-515e7.chunk.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/js/poll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/views/deposit.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/views/home.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/controllers/default.go" beforeDir="false" afterPath="$PROJECT_DIR$/controllers/default.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/controllers/userLogController.go" beforeDir="false" afterPath="$PROJECT_DIR$/controllers/userLogController.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/controllers/userRegisterController.go" beforeDir="false" afterPath="$PROJECT_DIR$/controllers/userRegisterController.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db_mysql/db.go" beforeDir="false" afterPath="$PROJECT_DIR$/db_mysql/db.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/go-sql-driver/mysql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/user.go" beforeDir="false" afterPath="$PROJECT_DIR$/models/user.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/routers/router.go" beforeDir="false" afterPath="$PROJECT_DIR$/routers/router.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/HomeNew-f8f62.chunk.js.下载" beforeDir="false" afterPath="$PROJECT_DIR$/static/js/HomeNew-f8f62.chunk.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/UserLoginForm-86fb5.chunk.js.下载" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/app-f03c3be68c19ce58d4ff.js.下载" beforeDir="false" afterPath="$PROJECT_DIR$/static/js/app-f03c3be68c19ce58d4ff.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/b.js.下载" beforeDir="false" afterPath="$PROJECT_DIR$/static/js/b.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/common-f03c3be68c19ce58d4ff.js.下载" beforeDir="false" afterPath="$PROJECT_DIR$/static/js/common-f03c3be68c19ce58d4ff.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/data-set.min.js.下载" beforeDir="false" afterPath="$PROJECT_DIR$/static/js/data-set.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/es6-shim-8e9077312e.js.下载" beforeDir="false" afterPath="$PROJECT_DIR$/static/js/es6-shim-8e9077312e.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/hm.js(1).下载" beforeDir="false" afterPath="$PROJECT_DIR$/static/js/hm.js(1)" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/hm.js(2).下载" beforeDir="false" afterPath="$PROJECT_DIR$/static/js/hm.js(2)" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/hm.js.下载" beforeDir="false" afterPath="$PROJECT_DIR$/static/js/hm.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/jquery-02053ebe83.js.下载" beforeDir="false" afterPath="$PROJECT_DIR$/static/js/jquery-02053ebe83.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/pc_nb.js.下载" beforeDir="false" afterPath="$PROJECT_DIR$/static/js/pc_nb.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/push.js.下载" beforeDir="false" afterPath="$PROJECT_DIR$/static/js/push.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/views/log.html" beforeDir="false" afterPath="$PROJECT_DIR$/views/log.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/views/register.html" beforeDir="false" afterPath="$PROJECT_DIR$/views/register.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,7 +53,7 @@
   </component>
   <component name="GOROOT" path="C:\Go" />
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/go-sql-driver/mysql" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1iiIxE4wJIDpPgEgeUx2uPEOYMp" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -39,20 +69,23 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="go.import.settings.migrated" value="true" />
     <property name="go.sdk.automatically.set" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../bee04" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/models" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\GoProjects\src\bee06" />
+      <recent name="C:\Users\GoProjects\src\bee06\views" />
+      <recent name="C:\Users\GoProjects\src\bee06\static" />
       <recent name="C:\Users\GoProjects\src\bee06\static\js" />
       <recent name="C:\Users\GoProjects\src\bee06\static\img" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\GoProjects\src\bee06\models" />
+      <recent name="C:\Users\GoProjects\src\bee06\static\js" />
       <recent name="C:\Users\GoProjects\src\bee06\static\js\log_js" />
       <recent name="C:\Users\GoProjects\src\bee06\static\img\log_img" />
       <recent name="C:\Users\GoProjects\src\bee06\static\css\log_css" />
-      <recent name="C:\Users\GoProjects\src\bee06\static\js" />
-      <recent name="C:\Users\GoProjects\src\bee06\static\img" />
     </key>
   </component>
   <component name="RunManager" selected="Go Build.go build bee06">
@@ -82,9 +115,19 @@
       <directory value="$PROJECT_DIR$/" />
       <method v="2" />
     </configuration>
+    <configuration name="go build main.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="bee06" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/main.go" />
+      <package value="bee06" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="Go Build.go build bee06" />
+        <item itemvalue="Go Build.go build main.go" />
         <item itemvalue="Go Build.go build bee06/static/js/log_js" />
         <item itemvalue="Go Build.go build db.go" />
       </list>
@@ -98,10 +141,10 @@
       <screen x="0" y="0" width="1440" height="860" />
     </state>
     <state x="212" y="8" key="#Inspections/0.0.1440.860@0.0.1440.860" timestamp="1602416988882" />
-    <state x="503" y="221" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1602392880619">
+    <state x="503" y="221" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1602485231936">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
-    <state x="503" y="221" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1440.860@0.0.1440.860" timestamp="1602392880619" />
+    <state x="503" y="221" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1440.860@0.0.1440.860" timestamp="1602485231936" />
     <state x="371" y="28" key="#go_build_db.go" timestamp="1602399899349">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
@@ -110,22 +153,22 @@
       <screen x="0" y="0" width="1440" height="860" />
     </state>
     <state x="450" y="131" key="FileChooserDialogImpl/0.0.1440.860@0.0.1440.860" timestamp="1602408205932" />
-    <state width="1387" height="137" key="GridCell.Tab.0.bottom" timestamp="1602428940329">
+    <state width="1387" height="129" key="GridCell.Tab.0.bottom" timestamp="1603123699962">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
-    <state width="1387" height="137" key="GridCell.Tab.0.bottom/0.0.1440.860@0.0.1440.860" timestamp="1602428940329" />
-    <state width="1387" height="137" key="GridCell.Tab.0.center" timestamp="1602428940328">
+    <state width="1387" height="129" key="GridCell.Tab.0.bottom/0.0.1440.860@0.0.1440.860" timestamp="1603123699962" />
+    <state width="1387" height="129" key="GridCell.Tab.0.center" timestamp="1603123699961">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
-    <state width="1387" height="137" key="GridCell.Tab.0.center/0.0.1440.860@0.0.1440.860" timestamp="1602428940328" />
-    <state width="1387" height="137" key="GridCell.Tab.0.left" timestamp="1602428940328">
+    <state width="1387" height="129" key="GridCell.Tab.0.center/0.0.1440.860@0.0.1440.860" timestamp="1603123699961" />
+    <state width="1387" height="129" key="GridCell.Tab.0.left" timestamp="1603123699961">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
-    <state width="1387" height="137" key="GridCell.Tab.0.left/0.0.1440.860@0.0.1440.860" timestamp="1602428940328" />
-    <state width="1387" height="137" key="GridCell.Tab.0.right" timestamp="1602428940328">
+    <state width="1387" height="129" key="GridCell.Tab.0.left/0.0.1440.860@0.0.1440.860" timestamp="1603123699961" />
+    <state width="1387" height="129" key="GridCell.Tab.0.right" timestamp="1603123699962">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
-    <state width="1387" height="137" key="GridCell.Tab.0.right/0.0.1440.860@0.0.1440.860" timestamp="1602428940328" />
+    <state width="1387" height="129" key="GridCell.Tab.0.right/0.0.1440.860@0.0.1440.860" timestamp="1603123699962" />
     <state x="93" y="0" key="SettingsEditor" timestamp="1602408144208">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
